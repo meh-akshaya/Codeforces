@@ -6,6 +6,6 @@ int main() {
     while (t--){
         int n,x,y,z;
         cin >> n >> x >> y >> z;
-        if ()
+        if (a>b)
     }
 }
