@@ -5,14 +5,12 @@ int main(){
     int t;
     cin >> t;
     while(t--){
-        int n,q;
-        cin >> n >> q;
-        vector<long long> V(n);
+        int n;
+        cin >> n;
+        vector<int> V(n);
         for(int i=0; i<n; i++){
             cin >> V[i];
         }
-        int l,r,k;
-        cin >> l >> r >>k;
         
     }
 }
